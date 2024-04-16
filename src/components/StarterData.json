@@ -1,0 +1,69 @@
+[
+    {
+      "id": "Starters",
+      "categoryName": "Starters",
+      "items": [
+        {
+          "id": 1,
+          "name": "Mixed Veggie Platter",
+          "description": "A plate full of healthy veggies cooked in low-fat butter.",
+          "price": 100,
+          "image": "https://yenu.menu/demo/images/itemImage/Mixed-Veggie-Platter.webp",
+          "meta": {
+            "type": "Vegetarian",
+            "tag": "",
+            "image": "https://yenu.menu/demo/images/vegetarian.svg"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Fried Chicken",
+          "description": "Made from our signature coating and spices.",
+          "price": 150,
+          "image": "https://yenu.menu/demo/images/itemImage/Fried-Chicken.webp",
+          "meta": {
+            "type": "Non Vegetarian",
+            "tag": "",
+            "image": "https://yenu.menu/demo/images/non-vegetarian.svg"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Steamed Momos",
+          "description": "Steamed Momos - 8 pieces that will feed two persons.",
+          "price": 130,
+          "image": "https://yenu.menu/demo/images/itemImage/Steamed-Momos.webp",
+          "meta": {
+            "type": "Non Vegetarian",
+            "tag": "",
+            "image": "https://yenu.menu/demo/images/non-vegetarian.svg"
+          }
+        },
+        {
+          "id": 4,
+          "name": "Fried Momos",
+          "description": "Fried Momos  - 8 pieces that will feed two persons.",
+          "price": 150,
+          "image": "https://yenu.menu/demo/images/itemImage/Fried-Momos.webp",
+          "meta": {
+            "type": "Non Vegetarian",
+            "tag": "",
+            "image": "https://yenu.menu/demo/images/non-vegetarian.svg"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Chicken Manchurian",
+          "description": "Tender and juicy Chicken fried in the Manchurian style.",
+          "price": 150,
+          "image": "https://yenu.menu/demo/images/itemImage/Chicken-Manchurian.webp",
+          "meta": {
+            "type": "Non Vegetarian",
+            "tag": "",
+            "image": "https://yenu.menu/demo/images/non-vegetarian.svg"
+          }
+        }
+      ]
+    }
+  ]
+  

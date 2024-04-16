@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Pie",
+      "description": "Goodness of apples and ice cream with a sprinkle of cinnamon.",
+      "price": 100,
+      "image": "https://yenu.menu/demo/images/itemImage/Apple-Pie.webp",
+      "meta": {
+        "type": "Vegetarian",
+        "tag": "",
+        "image": "https://yenu.menu/demo/images/vegetarian.svg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Malai Kulfi",
+      "description": "Malai kulfi decked with dry fruits and kesar.",
+      "price": 125,
+      "image": "https://yenu.menu/demo/images/itemImage/Malai-Kulfi.webp",
+      "meta": {
+        "type": "Vegetarian",
+        "tag": "New!",
+        "image": "https://yenu.menu/demo/images/vegetarian.svg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Gulab Jamun",
+      "description": "Soft delicious flour balls dipped in sugary goodness.",
+      "price": 75,
+      "image": "https://yenu.menu/demo/images/itemImage/Gulab-Jamun.webp",
+      "meta": {
+        "type": "Vegetarian",
+        "tag": "",
+        "image": "https://yenu.menu/demo/images/vegetarian.svg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Lemon Tart",
+      "description": "Sinful, rich and yummy - the perfect way finish to a meal",
+      "price": 100,
+      "image": "https://yenu.menu/demo/images/itemImage/Lemon-Tart.webp",
+      "meta": {
+        "type": "Vegetarian",
+        "tag": "",
+        "image": "https://yenu.menu/demo/images/vegetarian.svg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Brownie",
+      "description": "Insanely rich, fudgy and chewy flavour.",
+      "price": 80,
+      "image": "https://yenu.menu/demo/images/itemImage/Brownie.webp",
+      "meta": {
+        "type": "Vegetarian",
+        "tag": "New!",
+        "image": "https://yenu.menu/demo/images/vegetarian.svg"
+      }
+    }
+  ]
+  

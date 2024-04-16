@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Tomato",
+      "description": "Smooth, sweet and savoury tomato soup.",
+      "price": 75,
+      "image": "https://yenu.menu/demo/images/itemImage/Tomato-Soup.webp",
+      "meta": {
+        "type": "Vegetarian",
+        "tag": "",
+        "image": "https://yenu.menu/demo/images/vegetarian.svg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Basil Soup",
+      "description": "Made of a broth consisting of tomatoes, garlic and basil.",
+      "price": 75,
+      "image": "https://yenu.menu/demo/images/itemImage/Basil-Soup.webp",
+      "meta": {
+        "type": "Vegetarian",
+        "tag": "",
+        "image": "https://yenu.menu/demo/images/vegetarian.svg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Onion Soup",
+      "description": "Caramelized onions served with fried bread sticks.",
+      "price": 60,
+      "image": "https://yenu.menu/demo/images/itemImage/Onion-Soup.webp",
+      "meta": {
+        "type": "Vegetarian",
+        "tag": "",
+        "image": "https://yenu.menu/demo/images/vegetarian.svg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Chicken Clear Soup",
+      "description": "A mild soup with cubes of Chicken.",
+      "price": 75,
+      "image": "https://yenu.menu/demo/images/itemImage/Chicken-Clear-Soup.webp",
+      "meta": {
+        "type": "Non Vegetarian",
+        "tag": "",
+        "image": "https://yenu.menu/demo/images/non-vegetarian.svg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chicken Manchow Soup",
+      "description": "A highly popular fusion soup belonging to the Indo Chinese Cuisine",
+      "price": 100,
+      "image": "https://yenu.menu/demo/images/itemImage/Chicken-Manchow-Soup.webp",
+      "meta": {
+        "type": "Non Vegetarian",
+        "tag": "Spicy",
+        "image": "https://yenu.menu/demo/images/non-vegetarian.svg"
+      }
+    }
+  ]
+  

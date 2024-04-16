@@ -1,0 +1,59 @@
+[
+    
+    {
+      "id": 1,
+      "name": "Tea",
+      "description": "A perfect blend of loose leaf Ceylon tea, creamy milk, and natural, caramel-y sweetness.",
+      "price": 25,
+      "image": "https://yenu.menu/demo/images/itemImage/tea.webp",
+      "meta": {
+        "type": "Vegetarian",
+        "tag": "Spicy"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Coffee",
+      "description": "Made from the best coffee grounds, this cup of joe will kick start your day!",
+      "price": 25,
+      "image": "https://yenu.menu/demo/images/itemImage/coffee.webp",
+      "meta": {
+        "type": "Vegetarian",
+        "tag": ""
+      }
+    },
+    {
+      "id": 3,
+      "name": "Orange Juice",
+      "description": "Orange juice without any added sugars or preservatives.",
+      "price": 30,
+      "image": "https://yenu.menu/demo/images/itemImage/orange-juice.webp",
+      "meta": {
+        "type": "Vegan",
+        "tag": ""
+      }
+    },
+    {
+      "id": 4,
+      "name": "Apple Juice",
+      "description": "Freshly squeezed Apple juice that is great for your wellbeing.",
+      "price": 35,
+      "image": "https://yenu.menu/demo/images/itemImage/apple-juice.webp",
+      "meta": {
+        "type": "Vegan",
+        "tag": "Bestseller"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Watermelon Juice",
+      "description": "Light and refreshing Watermelon drink without added sugar or preservatives.",
+      "price": 40,
+      "image": "https://yenu.menu/demo/images/itemImage/Watermelon-Juice.webp",
+      "meta": {
+        "type": "Vegan",
+        "tag": ""
+      }
+    }
+  ]
+  

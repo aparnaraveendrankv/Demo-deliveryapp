@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "categoryName": "Main Course",
+      "items": [
+        {
+          "id": 1,
+          "name": "Panner Tikka Masala",
+          "description": "Tickle your tastebuds with our signature panner dish",
+          "price": "175",
+          "image": "https://yenu.menu/demo/images/itemImage/Panner-Tikka-Masala.webp",
+          "meta": {
+            "type": "Vegetarian",
+            "tag": "Spicy",
+            "image": "https://yenu.menu/demo/images/vegetarian.svg"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Panner Butter Masala",
+          "description": "Goodness of butter and paneer. Pairs well with roti or paranta.",
+          "price": "190",
+          "image": "https://yenu.menu/demo/images/itemImage/Panner-Butter-Masala.webp",
+          "meta": {
+            "type": "Vegetarian",
+            "tag": "",
+            "image": "https://yenu.menu/demo/images/vegetarian.svg"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Panner Manchurian",
+          "description": "Indulge in the goodness of paneer that is cooked in Manchurian style",
+          "price": "150",
+          "image": "https://yenu.menu/demo/images/itemImage/Panner-Manchurian.webp",
+          "meta": {
+            "type": "Vegetarian",
+            "tag": "",
+            "image": "https://yenu.menu/demo/images/vegetarian.svg"
+          }
+        },
+        {
+          "id": 4,
+          "name": "Garlic Chicken",
+          "description": "Sweet and tangy Chicken tossed with garlic and other herbs",
+          "price": "250",
+          "image": "https://yenu.menu/demo/images/itemImage/Garlic-Chicken.webp",
+          "meta": {
+            "type": "Non Vegetarian",
+            "tag": "",
+            "image": "https://yenu.menu/demo/images/non-vegetarian.svg"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Butter Chicken",
+          "description": "Chicken that is simmered in a rich butter and cream gravy.",
+          "price": "300",
+          "image": "https://yenu.menu/demo/images/itemImage/Butter-Chicken.webp",
+          "meta": {
+            "type": "Non Vegetarian",
+            "tag": "Bestseller",
+            "image": "https://yenu.menu/demo/images/non-vegetarian.svg"
+          }
+        },
+        {
+          "id": 6,
+          "name": "Chicken Vindaloo",
+          "description": "Juicy Chicken cuts marinated in vinegar, wine and garlic.",
+          "price": "200",
+          "image": "https://yenu.menu/demo/images/itemImage/Chicken-Vindaloo.webp",
+          "meta": {
+            "type": "Non Vegetarian",
+            "tag": "Spicy",
+            "image": "https://yenu.menu/demo/images/non-vegetarian.svg"
+          }
+        }
+      ]
+    }
+  ]
+  
