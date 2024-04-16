@@ -13,7 +13,7 @@ const Navbar = () => {
             <a href="#Starters">Starters</a>
           </li>
           <li className="category keen-slider__slide" style={{ transform: 'translate3d(20px, 0px, 0px))' }}>
-            <a href="#MainCoursel">Main Course</a>
+            <a href="#MainCourse">Main Course</a>
           </li>
           <li className="category keen-slider__slide hidden-mobile">
             <a href="#Soups">Soups</a>
